@@ -1,1 +1,3 @@
 # projetos-pos
+
+Repository dedicated to projects developed during my postgraduate studies in Applied AI Engineering. It brings together practical work, experiments, and solutions exploring different areas of artificial intelligence, such as machine learning, deep learning, natural language processing, and data analysis. The projects reflect the application of theoretical concepts to real-world scenarios, with a focus on best development practices, code organization, and reproducibility of results. This repository also serves as a record of my technical growth and as a portfolio showcasing the skills acquired throughout the program.
