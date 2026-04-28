@@ -1,0 +1,5 @@
+node_modules/
+playwright-report/
+@TestResults/
+.npm/
+.DS_Store
