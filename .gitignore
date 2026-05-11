@@ -1,0 +1,12 @@
+# Ignorar pastas
+node_modules/
+build/
+.settings/
+
+# Ignorar arquivos específicos
+.env
+secrets.txt
+
+# Ignorar extensões
+*.log
+*.tmp
