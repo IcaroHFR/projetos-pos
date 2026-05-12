@@ -12,7 +12,9 @@ secrets.txt
 *.tmp
 
 # Ignorar arquivos grandes do Neo4j e node_modules
-exemplo-12-embeddings-neo4j-template/neo4j/
-exemplo-12-embeddings-neo4j-template/node_modules/
+exemplo-12-embeddings-neo4j/neo4j/
+exemplo-12-embeddings-neo4j/node_modules/
 *.so
 *.db
+exemplo-12-embeddings-neo4j-rag/neo4j/
+exemplo-12-embeddings-neo4j-rag/node_modules/
